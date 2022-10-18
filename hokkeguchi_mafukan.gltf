@@ -473,9 +473,13 @@
 				"baseColorTexture":
 				{
 					"index": 4
-				},
-				"metallicFactor": 0,
-				"roughnessFactor": 0.5
+				}
+			},
+			"extensions":
+			{
+				"KHR_materials_unlit":
+				{
+				}
 			}
 		}
 	],
